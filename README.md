@@ -40,3 +40,15 @@ to some "more convenient" format. I don't have time to write a formal paper. I d
 nor knowledge to convert this Rust code to something more convenient.
 
 **STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
+
+## 🛑 DEVELOPER INJUNCTION / NO COMPILER SUPPORT
+This repository provides the structural mathematical architecture and conceptual
+blueprint for the Sovereign Core. The creator is NOT a Rust developer and
+will NOT provide technical support, code debugging, or answers to syntax questions.
+ 
+The logic is closed. The types are explicit.
+If you are a low-level systems engineer, the code speaks entirely for itself. 
+
+**Do not ask questions. Compile it, test the invariants, and fix the bugs yourself.**
+
+**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
