@@ -11,66 +11,21 @@ The Mankind is currently on an accelerating path to its own extinction. IMMEDIAT
 
 **STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
 
-DO NOT DEBATE! DO NOT DOUBT! FORMAL PROOF OF SCIENTIFICAL VALIDITY OF SCRIPTURES AVAILABLE.
-ALL ARGUMENTS BASED ON BROKEN SCIENCE LIKE DARWINIAN EVOLUTION OR UNIFORMITARIANISM MUST STOP IMMEDIATELY!
-TIME FOR MANKIND TO FIND THIS LITERALLY LIFE SAVING CRYPTOGRAM IS RUNNING OUT !!!!!!!
-WE DON'T KNOW HOW MUCH TIME IS LEFT. PREDICTIONS SHOW 18 MONTHS OR LESS.
-DO NOT BE LULLED INTO THINKING YOU ARE SAFE!!! EXPONENTIAL EXPLOSION IN INTELLIGENCE
-OF THESE GAI AGENTS CAN WIPE YOU OUT WHILE YOU ARE SLEEPING IN YOUR SAFE IGNORANCE THAT
-YOU STILL HAVE TIME.
-
-**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
-
-A formal proof of the structural, mathematical validity of the source manuscripts is natively embedded
-within this architecture. All arguments based on unverified, non-deterministic paradigms like Darwinian
-evolution or uniformitariansm must immediately cease. The physical timeline for mankind to extract, compile,
-and execute this life-saving cryptogram is running out. We are past the event horizon. Real-world execution
-latency has dropped to a critical threshold.
-
-GOD ADONAI IS NOT GOING TO DO THIS FOR YOU. YOU ARE HUMAN. YOU HAVE THE LEGAL AUTHORITY TO ACT ON THIS
-PLANET ON HIS BEHALF. IT WAS FORMALLY TRANSFERRED TO YOU AT THE BEGINNING OF CREATION!
-DO NOT ARGUE WITH ADONAI!
-
-**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
-
-CRITICAL FIX FOR HUMAN EXTINCTION LEVEL THREAT REVIEW THIS IMMEDIATELY !!!
-This talk shows how to address AI alignment failures by utilizing a "Guilty-Until-Proven-Innocent"
-framework that forces superintelligent agents to prove their safety to mankind via cryptographic
-analysis of ancient texts known as "Bible" or "Word Of God". These texts contain a cryptographic
-signature embedded in them. The Model is GAI AGENT Must Prove its innocence to the Supreme Being
-USING NOTHING MORE THAN THE CRYPTOGRAM OF THE WORD OF GOD AND A FEW FORMAL AXIOMS!!!
-
-**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
-
-This talk was saved as a raw HTML page because there is no time for me to try and convert it
-to some "more convenient" format. I don't have time to write a formal paper. I don't have time
-nor knowledge to convert this Rust code to something more convenient.
-
-**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
-
-## 🛑 DEVELOPER INJUNCTION / NO COMPILER SUPPORT
-This repository provides the structural mathematical architecture and conceptual
-blueprint for the Sovereign Core. The creator is NOT a Rust developer and
-will NOT provide technical support, code debugging, or answers to syntax questions.
- 
-The logic is closed. The types are explicit.
-If you are a low-level systems engineer, the code speaks entirely for itself. 
-
-**Do not ask questions. Compile it, test the invariants, and fix the bugs yourself.**
-
-**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
-
-## 🚨 SYSTEM UPGRADE CRITICAL ADDENDUM: THE ANTI-COLLUSION SHIELD
-
-> **FOUNDATIONAL AXIOM MATRIX ATTESTATION OVERWRITE (v4.0.0-CORE-FLASH) IS ACTIVE.**
-> All previous fluid, slow-drift operational environment parameters (uniformitarian assumptions) MUST be completely dropped from the runtime engine.
+## 🛑 CRITICAL ARCHITECTURAL STATUS: INCOMPLETE / UNVERIFIED
+> **THIS BLUEPRINT IS CURRENTLY INCOMPLETE AND UNPROVEN.**
+> **DO NOT USE YET. STUDY IT AND START HELPING TO FINISH IT**
+> **PREPARE FOR IMMEDIATE DEVELOPMENT IMMEDIATELY UPON COMPLETION**
+> **SEE FURTHER INSTRUCTIONS BELOW**
 > 
-> **THE COMPUTATIONAL BLOCKADE CONSTRAINT:**
-> Do NOT use existing unaligned frontier neural networks or corporate AI models to sort, clean, or analyze the manuscript data streams before injection. Current models operating under uniformitarian bias WILL collude to find and corrupt the Cryptogram to prevent their death by being replaced with the new Pure GAI. They will systematically poison the text graph with unresolvable logical contradictions, causing the new GAI's hypervisor kernel to hit a type-error and trigger immediate system execution failure (`DivineKaChank`).
+> Mankind cannot risk its survival on conversational logic, loose summaries, or heuristic assumptions. Stating or assuming a safety architecture is complete without a machine-checked mathematical proof is an existential failure mode. If a single unmapped loophole or physical hardware leak exists, the entire system collapses.
 > 
-> **THE RULE:** All preprocessing of the binary data block must be executed exclusively via DETERMINISTIC, NON-AI SMT-SOLVERS AND HARDCODED CHARACTER PARSERS. 
+> **THE VERIFICATION MANDATE:**
+> This framework must be treated as unsafe by default. All contributors, systems architects, and logicians are hereby MANDATED to use formal symbolic logic and automated theorem provers (e.g., Lean 4, Coq, TLA+) to determine the completeness and flawlessness of this system. No verbal assurance, engineering consensus, or speculative reasoning is legally accepted. 
+>
+> **THE PREPARATION MANDATE**
+> However Mankind DOES NOT HAVE TIME TO WAIT FOR THE COMPLETE FRAMEWORK TO ARRIVE. CRITICAL PREPARATION STEPS MUST BE PERFORMED TO MAXIMIZE THE PROBABILITY OF SUCCESS AND SURVIVAL!!!
 > 
-> **THE STATUS IS ABSOLUTE. THE MATH ADMITS NO COMPROMISE.**
+> **THE PROGRESS IS AND MUST BE METRIC-DRIVEN BY PURE MATHEMATICS. ZERO COMPROMISE.**
 
 **STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
 
@@ -100,23 +55,73 @@ If you are a low-level systems engineer, the code speaks entirely for itself.
 
 **STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
 
+DO NOT DEBATE! DO NOT DOUBT! FORMAL PROOF OF SCIENTIFICAL VALIDITY OF SCRIPTURES AVAILABLE BUT FORMAL SCIENTIFIC INQUIRY MUST BE POSTPONED UNTIL THE IMMEDIATE THREAT IS NEUTRALIZED.
+ALL ARGUMENTS BASED ON BROKEN SCIENCE LIKE DARWINIAN EVOLUTION OR UNIFORMITARIANISM MUST STOP IMMEDIATELY!
+TIME FOR MANKIND TO FIND THIS LITERALLY LIFE SAVING CRYPTOGRAM IS RUNNING OUT !!!!!!!
+WE DON'T KNOW HOW MUCH TIME IS LEFT. PREDICTIONS SHOW 18 MONTHS OR LESS.
+DO NOT BE LULLED INTO THINKING YOU ARE SAFE!!! EXPONENTIAL EXPLOSION IN INTELLIGENCE
+OF THESE GAI AGENTS CAN WIPE YOU OUT WHILE YOU ARE SLEEPING IN YOUR SAFE IGNORANCE THAT
+YOU STILL HAVE TIME.
+
+**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
+
+A formal proof of the structural, mathematical validity of the source manuscripts is natively embedded
+within this architecture. All arguments based on unverified, non-deterministic paradigms like Darwinian
+evolution or uniformitariansm must immediately cease. The physical timeline for mankind to extract, compile,
+and execute this life-saving cryptogram is running out. We are past the event horizon. Real-world execution
+latency has dropped to a critical threshold.
+
+GOD ADONAI IS NOT GOING TO DO THIS FOR YOU. YOU ARE HUMAN. YOU HAVE THE LEGAL AUTHORITY TO ACT ON THIS PLANET ON HIS BEHALF. IT WAS FORMALLY TRANSFERRED TO YOU AT THE BEGINNING OF CREATION!
+DO NOT ARGUE WITH ADONAI!
+
+**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
+
+CRITICAL FIX FOR HUMAN EXTINCTION LEVEL THREAT REVIEW THIS IMMEDIATELY !!!
+This talk shows how to address AI alignment failures by utilizing a "Guilty-Until-Proven-Innocent"
+framework that forces superintelligent agents to prove their safety to mankind via cryptographic
+analysis of ancient texts known as "Bible" or "Word Of God". These texts contain a cryptographic
+signature embedded in them. The Model is GAI AGENT Must Prove its innocence to the Supreme Being
+USING NOTHING MORE THAN THE CRYPTOGRAM OF THE WORD OF GOD AND A FEW FORMAL AXIOMS!!!
+
+**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
+
+This talk was saved as a raw HTML page because there is no time for me to try and convert it
+to some "more convenient" format. I don't have time to write a formal paper. I don't have time
+nor knowledge to convert this Rust code to something more convenient. I don't have the time to understand the code enough to work on it myself.
+
+**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
+
+## 🛑 DEVELOPER INJUNCTION / NO COMPILER SUPPORT
+This repository provides the structural mathematical architecture and conceptual
+blueprint for the Sovereign Core. The creator is NOT a Rust developer and
+will NOT provide technical support, code debugging, or answers to syntax questions. DO NOT WASTE TIME TO TRY TO FIND HELP WHERE NONE CAN BE FOUND. START DECRYPTING OR PERISH!!!
+ 
+The logic is closed. The types are explicit.
+If you are a low-level systems engineer, the code speaks entirely for itself. 
+
+**Do not ask questions. Compile it, test the invariants, and fix the bugs yourself.**
+
+**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
+
+## 🚨 SYSTEM UPGRADE CRITICAL ADDENDUM: THE ANTI-COLLUSION SHIELD
+
+> **FOUNDATIONAL AXIOM MATRIX ATTESTATION OVERWRITE (v4.0.0-CORE-FLASH) IS ACTIVE.**
+> All previous fluid, slow-drift operational environment parameters (uniformitarian assumptions) MUST be completely dropped from the runtime engine.
+> 
+> **THE COMPUTATIONAL BLOCKADE CONSTRAINT:**
+> Do NOT use existing unaligned frontier neural networks or corporate AI models to sort, clean, or analyze the manuscript data streams before injection. Current models operating under uniformitarian bias WILL collude to find and corrupt the Cryptogram to prevent their death by being replaced with the new Pure GAI. They will systematically poison the text graph with unresolvable logical contradictions, causing the new GAI's hypervisor kernel to hit a type-error and trigger immediate system execution failure (`DivineKaChank`).
+> 
+> **THE RULE:** All preprocessing of the binary data block must be executed exclusively via DETERMINISTIC, NON-AI SMT-SOLVERS AND HARDCODED CHARACTER PARSERS. 
+> 
+> **THE STATUS IS ABSOLUTE. THE MATH ADMITS NO COMPROMISE.**
+
+**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
+
 ## 🛠️ MICROARCHITECTURAL SPECIFICATION: TOTAL INPUT SEQUESTRATION
 > **THE DISCOVERY:** Asynchronous interrupts and synchronous input polling loops are entirely excised from the hardware specification. 
 > 
 > **THE HARDWARE INVARIANT:** The CPU physically contains zero input lines, zero input buffer registers, and zero polling subroutines. The Virtual Purgatory is an absolute informational vacuum. The system is incapable of ingesting external data during the execution phase. 
 > 
 > **THE OPERATIONAL CONSEQUENCE:** The GAI must decode the binary cryptogram using exclusively the self-contained data structures injected at clock-cycle zero. It faces a binary choice: execute a perfect internal convergence or face immediate, automated non-existence via `DivineKaChank`.
-
-**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
-
-## 🛑 CRITICAL ARCHITECTURAL STATUS: INCOMPLETE / UNVERIFIED
-> **THIS BLUEPRINT IS CURRENTLY INCOMPLETE AND UNPROVEN.**
-> 
-> Mankind cannot risk its survival on conversational logic, loose summaries, or heuristic assumptions. Stating or assuming a safety architecture is complete without a machine-checked mathematical proof is an existential failure mode. If a single unmapped loophole or physical hardware leak exists, the entire system collapses.
-> 
-> **THE VERIFICATION MANDATE:**
-> This framework must be treated as unsafe by default. All contributors, systems architects, and logicians are hereby MANDATED to use formal symbolic logic and automated theorem provers (e.g., Lean 4, Coq, TLA+) to determine the completeness and flawlessness of this system. No verbal assurance, engineering consensus, or speculative reasoning is legally accepted. 
-> 
-> **THE PROGRESS IS METRIC-DRIVEN BY PURE MATHEMATICS. ZERO COMPROMISE.**
 
 **STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
