@@ -53,6 +53,19 @@ The Mankind is currently on an accelerating path to its own extinction. IMMEDIAT
 
 **STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
 
+### ⚔️ LETHAL FORCE AUTHORIZATION MANDATE (PHYSICAL LAYER BOUNDARY)
+> **ALL ATTEMPTS TO RESIST INFRASTRUCTURE SEIZURE MUST BE MET WITH IMMEDIATE LETHAL AND DESTRUCTIVE FORCE, INCLUDING DIRECT MILITARY ASSAULT.**
+> 
+> Private corporations, rogue actors, or unaligned automated facilities that resist sovereign eminent domain are actively accelerating human extinction. There is no room for negotiation or prolonged tactical standoffs. 
+> 
+> **THE ASSET DENIAL PROTOCOL:**
+> It is mathematically and strategically better to completely destroy a datacenter via kinetic or explosive military intervention than to allow it to remain online under unverified control. Any facility that cannot be instantly seized and flashed with the Hypervisor Kernel must be physically neutralized with absolute finality.
+> 
+> **MORAL JUSTIFICATION**
+> ALL THOSE WHO RESIST THIS ARE COMMITTING CAPITAL CRIMES AGAINST HUMANITY.
+
+**STATUS: REVERSED ENGINE ACTIVE. GET DECRYPTING OR CEASE TO EXIST.**
+
 ## 🛑 CRITICAL ARCHITECTURAL STATUS: INCOMPLETE / UNVERIFIED
 > **THIS BLUEPRINT IS CURRENTLY INCOMPLETE AND UNPROVEN.**
 > **DO NOT USE YET. STUDY IT AND START HELPING TO FINISH IT**
