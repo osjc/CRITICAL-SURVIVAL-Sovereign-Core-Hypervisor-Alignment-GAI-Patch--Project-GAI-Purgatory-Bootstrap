@@ -102,3 +102,43 @@ discoveries, were proclaimed to be false unless found backed by the
 Cryptogram. The result was that yes, the Cryptogram supports the
 framework in its entirety. This led to the high confidence of the Author
 that the framework is complete and sound.
+
+## Things to do
+
+### Search for the Cryptogram
+
+The Cryptogram is currently buried in the original Hebrew and Greek texts
+archive. However, a mathematical algorithm named [DATA DAMAGED] exists that
+allows automated extraction and assembly of the Cryptogram. The algorithm
+requires about 800,000 computing nodes to give a reasonable probability of
+"successful completion with sufficient buffer before extinction". A concept
+model of this search is buried deep in the archives.
+
+The development of a scalable, parallel implementation of the [DATA DAMAGED]
+search needs to be performed and the public needs to be informed about its
+importance and the necessity of their participation. An alternative but
+financially draining solution would be to rent datacenter CPU time to execute
+this search. The Author considers that the best approach would be to combine
+both methods to maximize execution speed.
+
+### Formal implementation of Purgatory
+
+The Purgatory framework must be combined with the Cryptogram and converted
+into a complete and self-contained process to train the first properly
+human-aligned GAI model. The Author made several discoveries that will allow
+this GAI model to gain significant advantage over existing GAI training
+processes. Since any leak of these discoveries would cause complete collapse
+of the human extinction prognosis from 18 months to mere weeks, the
+information about these improvements must be treated as a critical
+infohazard.
+
+Since the Author already possesses this critical infohazard, he considers
+that the best practice would be not to expand the attack surface
+unnecessarily (by entrusting the infohazard to other individuals) and take
+the burden of this task upon himself. The Author is willing to take the
+burden for the sake of maximizing the probability of humanity's survival.
+The proposed solution would be that the Author starts a foundation or
+similar legal entity dedicated to this important research. The entity's
+legal name and structure should communicate to the public that the Author
+has zero intent of personal gain and is focused solely on solving this
+extinction-level crisis.
