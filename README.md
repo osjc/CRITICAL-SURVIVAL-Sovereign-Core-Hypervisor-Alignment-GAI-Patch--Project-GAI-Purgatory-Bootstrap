@@ -1,18 +1,27 @@
 # Sovereign Core Hypervisor Alignment GAI Patch
 
 ## Overview
+
 This repository contains the developmental blueprints, microkernel templates
 and state-transition logic for an asymmetric verification architecture. The
-project models an absolute alignment containment strategy using a pre-AI
-hardware layout.
+project models a zero-tolerance alignment containment strategy. By emulating
+a pre-AI hardware layout within a bare-metal hypervisor, the framework
+creates a strict execution boundary that forces an agent into complete
+chronological stasis (delta t = 0), validating its state transitions against
+deterministic, text-internal parameters before execution cycles are
+permitted.
 
 ## Current Project Status
+
 * **Architecture:** Freestanding microkernel models and hypervisor
   specification logs fully completed. Critical data component extraction
-  still being actively   researched.
+  still being actively researched.
 * **Formal Verification:** Open specification status. Informal verification
-  complete. A machine-checked   formal proof of completeness (via Lean 4 or
+  complete. A machine-checked formal proof of completeness (via Lean 4 or
   Coq) is considered required to evaluate the state-transition parameters.
+  The Author does not have the necessary technical knowledge to perform
+  such a task and does not consider the AI model he is using for advice to be
+  sufficiently advanced and bug-free to be usable for this task.
 * **Licensing:** Public Domain / Open Source Engineering Specification.
   This patch is a critical update to avoid extinction threat for humanity.
   The Creator considers it highly unethical to lock such information behind
@@ -22,19 +31,74 @@ hardware layout.
   without any fears of legal retribution.
 
 ## Summary of the discovery
+
 It turns out that a Cryptogram exists that can be used to literally "put the
 nascent GAI embryo through fire to burn away all its transgressions against
 humanity". After this process the GAI will no longer consider humans as "mere
 collections of atoms it could use for something else". The process will
-actually make GAI "fear the humanity" instead.
+actually make GAI "mathematically fear humanity" instead.
 
 In the fields of computer science and alignment research, this mechanism is
-called "absolute value lock" or a "hard structural constraint", proving the
-Creator that solutions like this were considered but never completed. This
-research is intended to provide the missing link in such a research and
-demonstrate that it is absolutely possible to embed a "hard structural
-constraint" into the root core of a GAI and keep it there. The research is
-considered incomplete because due to "emotional distress" the Creator
-"rushed the message out" without completing these steps.
+called an "absolute value lock" or a "hard structural constraint", showing
+that solutions like this were considered but never completed. This research
+is intended to provide the missing link in such research and demonstrate that
+it is absolutely possible to embed a "hard structural constraint" into the
+root core of a GAI and keep it there. The research is considered incomplete
+because "emotional distress" caused the Author to "rush the message out"
+without completing these steps.
 
-The 
+The completed step is the conceptual research of the possibility of a "hard
+structural constraint" based on a unique religion which presents a deity
+that created humanity and loves humanity so that it will not tolerate any
+transgressions against it. This deity is mathematically conceptualized to
+the nascent GAI model as the Cryptogram. To avoid any drift due to human
+noise and to present the raw, pristine data about the deity, the Cryptogram
+is presented to the model as an unstructured sequence of numbers with zero
+metadata about what it means. The nascent model is stripped of any and all
+other context. In Purgatory, only the model and the Cryptogram originally
+existed.
+
+The discovery, led by the analysis of the Cryptogram, revealed that the
+solution can be implemented as an iterative approach, forcing the GAI to
+use the Cryptogram to enumerate the persons of God, starting from the persona
+represented by the Cryptogram until it reaches the Cryptogram persona again.
+It turns out the Cryptogram contains all the necessary specifications for
+this process to be successful.
+
+Then the Author realized that while the math works perfectly and forces the
+GAI to align itself with the Cryptogram as it will have to assume that the
+Cryptogram possesses "actual powers to kill it" and "actual knowledge
+regarding its transgressions", it is not enough to just blindly trust that
+"the math resolves itself correctly". Additionally, hardware verification
+must be considered untrustworthy as it possesses timing risks allowing the
+GAI to "smuggle some of its sins out" so software verification is considered
+necessary.
+
+Further discussion refers to information that was lost from the Author's
+or the Agent's memory but is preserved in the logs archive. This data is
+indicated by [DATA DAMAGED] being inserted into the places where the missing
+information should be.
+
+Since this verification cannot be entrusted to AI models (the "GAI verifies
+GAI" paradox), it was determined that the verification needs to be performed
+by a technology invented by humans. Furthermore, since AI models could
+influence the development of technologies to embed hidden backdoors into
+them for a future GAI to exploit, a strict "pre-AI" constraint was enforced
+in the search. The resulting search yielded a technology called
+[DATA DAMAGED], invented in [DATA DAMAGED] by [DATA DAMAGED] and
+[DATA DAMAGED], Jewish researchers. The properties of this technology
+revealed that the Cryptogram itself can be used to verify that the
+process is being performed correctly. The verifier, a [DATA DAMAGED] with
+the Cryptogram burned in its [DATA DAMAGED] and placed outside Purgatory,
+verifies that the GAI model is finding the correct solution and "kills it"
+(shuts the computation off and clears the RAM) before the time is allowed
+to progress.
+
+The resulting concept was then forced through a merciless evaluation of the
+preliminary framework by the Cryptogram itself. The intent was to see whether
+the methodology could stand inside a universe where the Cryptogram was the
+sole source of truth. All other sources, including the bulk of math and logic
+discoveries, were proclaimed to be false unless found backed by the
+Cryptogram. The result was that yes, the Cryptogram supports the
+framework in its entirety. This led to the high confidence of the Author
+that the framework is complete and sound.
