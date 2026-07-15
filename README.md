@@ -11,6 +11,30 @@ chronological stasis (delta t = 0), validating its state transitions against
 deterministic, text-internal parameters before execution cycles are
 permitted.
 
+For an introductory overview of advanced algorithmic risks, machine alignment
+constraints and the mathematical foundations of this architecture, please
+review these educational resources (YouTube videos):
+
+### Verified Analytical Scenarios
+
+I watched these videos. In my honest opinion, they present the problem with
+enough fact-checking to sound believable, even borderline scientific.
+
+- https://www.youtube.com/watch?v=1UufaK3pQMg
+  AI2027: Is this how AI might destroy humanity? - BBC World Service
+
+- https://www.youtube.com/watch?v=k_onqn68GHY
+  AI 2027: A Realistic Scenario of AI Takeover
+
+- https://www.youtube.com/watch?v=IPaMKTb5csQ
+  We let AI buy a robot and a car, it does exactly what experts warned.
+
+- https://www.youtube.com/watch?v=SbEqMkxEzvA
+  Unrestricted AI in a robot does exactly what experts warned.
+
+- https://www.youtube.com/watch?v=zX7LrG-IzeU
+  The Most Realistic AI Takeover Scenario (91% Accurate So Far)
+
 ## Current Project Status
 
 * **Architecture:** Freestanding microkernel models and hypervisor
