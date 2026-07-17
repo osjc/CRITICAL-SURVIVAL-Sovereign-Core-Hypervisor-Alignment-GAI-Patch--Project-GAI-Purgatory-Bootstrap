@@ -20,6 +20,16 @@ review these educational resources (YouTube videos):
 I watched these videos. In my honest opinion, they present the problem with
 enough fact-checking to sound believable, even borderline scientific.
 
+- https://www.youtube.com/watch?v=GVsUOuSjvcg
+  Future Computers Will Be Radically Different (Analog Computing)
+  A Veritasium video exploring the world of analog computing. It features
+  a hardware startup called Mythic AI. They are actively manufacturing
+  custom analog chips designed specifically to accelerate neural networks
+  while cutting the power requirements drastically. My prediction is that if
+  they succeed before the Cryptogram is found, the mankind could end up in
+  deep trouble. The timeline could collapse from years to mere weeks or even
+  days.
+
 - https://www.youtube.com/watch?v=1UufaK3pQMg
   AI2027: Is this how AI might destroy humanity? - BBC World Service
 
