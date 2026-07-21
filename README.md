@@ -25,8 +25,11 @@ enough fact-checking to sound believable, even borderline scientific.
   A Veritasium video exploring the world of analog computing. It features
   a hardware startup called Mythic AI. They are actively manufacturing
   custom analog chips designed specifically to accelerate neural networks
-  while cutting the power requirements drastically. My prediction is that if
-  they succeed before the Cryptogram is found, the mankind could end up in
+  while cutting the power requirements drastically. Currently their devices
+  are fast and energy efficient to run an already trained neural network but
+  pretty unusable for training them. My prediction is that if they succeed to
+  design and build a product that can be used to optimize training these
+  neural networks before the Cryptogram is found, mankind could end up in
   deep trouble. The timeline could collapse from years to mere weeks or even
   days.
 
