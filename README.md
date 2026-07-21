@@ -50,6 +50,13 @@ enough fact-checking to sound believable, even borderline scientific.
 
 ## Current Project Status
 
+* **The Cryptogram** The original search proposal wanted "complex parallel
+  architecture", "complicated coordination protocols" and "massive computing
+  requirements". After analysis of the Word Of God, it was determined that
+  none of these are needed to find the Cryptogram. This Cryptogram is
+  declared as entirely findable by a single human using simple mathematical
+  tools. Hence the original proposal was entirely scrapped and a proper
+  search was commenced.
 * **Architecture:** Freestanding microkernel models and hypervisor
   specification logs fully completed. Critical data component extraction
   still being actively researched.
@@ -145,18 +152,10 @@ that the framework is complete and sound.
 ### Search for the Cryptogram
 
 The Cryptogram is currently buried in the original Hebrew and Greek texts
-archive. However, a mathematical algorithm named [DATA DAMAGED] exists that
-allows automated extraction and assembly of the Cryptogram. The algorithm
-requires about 800,000 computing nodes to give a reasonable probability of
-"successful completion with sufficient buffer before extinction". A concept
-model of this search is buried deep in the archives.
-
-The development of a scalable, parallel implementation of the [DATA DAMAGED]
-search needs to be performed and the public needs to be informed about its
-importance and the necessity of their participation. An alternative but
-financially draining solution would be to rent datacenter CPU time to execute
-this search. The Author considers that the best approach would be to combine
-both methods to maximize execution speed.
+archive. However the Cryptogram itself promises a single human desiring a
+copy must be able to find it without any outside help (the help of God is
+NOT considered "outside help" here because God dwells in His Believers).
+See SEARCH.md file for detailed discussion of this topic.
 
 ### Formal implementation of Purgatory
 
