@@ -219,29 +219,6 @@ delta feedback:
   completely blocked from entering the Invariant Check pass to prevent them
   from corrupting the calculations.
 
-- 
-
-----------------
-
-### Workflow Integration Profile
-
-- With the database ingestion layer now fully defined as a responsive
-  interface model, the entire architecture is closed around a high-speed,
-  localized, and human-centric lookup tool. The requirements guarantee that
-  your software handles the messy reality of existing databases while keeping
-  the interaction sub-100ms fluid for your search.
-
-### Human Cognitive Clue Mapping
-
-- By preserving the non-standard characters in a separate color frame, the
-  software actively helps your organic search mind. When you encounter a
-  fragment boundary, you can read the highlighted non-standard notes or
-  symbols to orient your position within the broader database compilation,
-  using those structural clues to figure out exactly how the puzzle pieces
-  fit together.
-
-----------------
-
 ## The Mapping Matrix
 
 The character mapping utilizes the Unicode Standard as the foundation of the
@@ -301,98 +278,9 @@ The **Mapping Matrix** does not use arbitrary or modern random numbers.
 Instead, it respects the exact mathematical rules used by ancient human
 curators to verify text integrity across thousands of years.
 
-**Standard Hebrew Gematria Mapping Table**
+- **Standard Hebrew Gematria Mapping Table**
 
-This standard system (Mispar Hechrachi) maps the 22 fundamental letters of
-the alphabet. The five "final letters" (sofit forms used exclusively at the
-end of a word) natively retain the numerical value of their standard base
-characters to ensure structural mathematical consistency during text
-verification passes.
-
-        Unicode Value | Character Name    | Numerical Value
-        ------------- | ----------------- | ---------------
-        U+05D0        | Aleph             | 1
-        U+05D1        | Bet               | 2
-        U+05D2        | Gimel             | 3
-        U+05D3        | Dalet             | 4
-        U+05D4        | He                | 5
-        U+05D5        | Vav               | 6
-        U+05D6        | Zayin             | 7
-        U+05D7        | Chet              | 8
-        U+05D8        | Tet               | 9
-        U+05D9        | Yod               | 10
-        U+05DA        | Kaf (Final Form)  | 20
-        U+05DB        | Kaf               | 20
-        U+05DC        | Lamed             | 30
-        U+05DD        | Mem (Final Form)  | 40
-        U+05DE        | Mem               | 40
-        U+05DF        | Nun (Final Form)  | 50
-        U+05E0        | Nun               | 50
-        U+05E1        | Samekh            | 60
-        U+05E2        | Ayin              | 70
-        U+05E3        | Pe (Final Form)   | 80
-        U+05E4        | Pe                | 80
-        U+05E5        | Tsadi (Final Form)| 90
-        U+05E6        | Tsadi             | 90
-        U+05E7        | Qof               | 100
-        U+05E8        | Resh              | 200
-        U+05E9        | Shin              | 300
-        U+05EA        | Tav               | 400
-
-**Greek Isopsephy Mapping Table**
-
-This traditional system (the Milesian alphabetic system) requires 27 symbols
-to map units, tens and hundreds. Because the standard Greek alphabet features
-24 letters, it includes the three historical archaic digits - Stigma/Digamma,
-Koppa and Sampi - to satisfy the mathematical continuity of the grid. In text
-databases, lowercase Sigma has two Unicode variants (standard \(\sigma \) and
-word-final \(\varsigma \)), which both natively retain the identical
-numerical value of 200 to preserve calculation integrity.
-
-        Unicode Value | Character Name    | Numerical Value
-        ------------- | ----------------- | ---------------
-        U+03B1        | Alpha             | 1
-        U+03B2        | Beta              | 2
-        U+03B3        | Gamma             | 3
-        U+03B4        | Delta             | 4
-        U+03B5        | Epsilon           | 5
-        U+03DB        | Stigma / Digamma  | 6
-        U+03B6        | Zeta              | 7
-        U+03B7        | Eta               | 8
-        U+03B8        | Theta             | 9
-        U+03B9        | Iota              | 10
-        U+03BA        | Kappa             | 20
-        U+03BB        | Lambda            | 30
-        U+03BC        | Mu                | 40
-        U+03BD        | Nu                | 40
-        U+03BE        | Xi                | 60
-        U+03BF        | Omicron           | 70
-        U+03C0        | Pi                | 80
-        U+03DF        | Koppa             | 90
-        U+03C1        | Rho               | 100
-        U+03C3        | Sigma             | 200
-        U+03C2        | Sigma (Final Form)| 200
-        U+03C4        | Tau               | 300
-        U+03C5        | Upsilon           | 400
-        U+03C6        | Phi               | 500
-        U+03C7        | Chi               | 600
-        U+03C8        | Psi               | 700
-        U+03C9        | Omega             | 800
-        U+03E1        | Sampi             | 900
-
-----------------
-
-Now analyze the Greek part of Wor
-
-### Architectural Blueprint Status
-
-- With the ingestion, script isolation and performance firewalls officially
-  locked into the requirements matrix, the entire specification sits in its
-  most rigorous, cohesive posture. The software constraints are fully
-  optimized to handle the raw data on your consumer hardware without any
-  bloated processing overhead.
-
-----------------
+- **Greek Isopsephy Mapping Table**
 
 ## The Invariant Check
 
@@ -435,17 +323,6 @@ a millisecond:
   single, linear sweep across the text array to maintain safe deterministic
   execution times.
 
-----------------
-
-### System Verification Profile
-
-- With both the real-time constraint and the puzzle-mapping Success Gate
-  locked in, your requirements analysis has built a tight, secure framework
-  for a fast, accessible and low-overhead verification utility that runs
-  entirely on tools you control.
-
-----------------
-
 ## The Success Gate
 
 ### Visual Mapping Requirements
@@ -487,44 +364,31 @@ a millisecond:
   blocks, showing the human operator the geometric intervals connecting the
   fragments.
 
-----------------
-
-### Local File Boundary Verification
-
-- To ensure the script runs locally with zero external network overhead, the
-  requirements dictate that the input buffer, translation matrices and
-  mapping visualizer must compile inside a single file directory on a
-  consumer laptop.
-
-----------------
-
-
-
-# The source database
+# The source databases
 
 Initial, cursory research identified these 4 sources:
 
-- https://github.com/scrollmapper/bible_databases
+- (1) https://github.com/scrollmapper/bible_databases
   This is one of the absolute gold-standard hubs for open-source digital
   scripture. The Sources folder contains completely flat, raw files of the
   original text streams. You can download them directly as CSV, JSON, SQLite
   or plain TXT files, which completely maps every single book, chapter and
   verse into standard database coordinates.
 
-- https://github.com/Clear-Bible/macula-hebrew
+- (2) https://github.com/Clear-Bible/macula-hebrew
   This repository contains the raw, public-domain text of the Westminster
   Leningrad Codex (the complete Hebrew Old Testament data layer). It is fully
   parsed into linguistic datasets, separating the raw words into tables that
   a basic Python script can run matrix analysis on.
 
-- https://github.com/openscriptures/morphhb
+- (3) https://github.com/openscriptures/morphhb
   This developer community has gone a step further by assigning a completely
   unique, immutable ID number to every single word in the Hebrew Bible. This
   is the exact tool that can be used to map out the root-word
   cross-references mechanically without needing to manually decode the
   alphabet.
 
-- https://github.com/ivandustin/bible
+- (4) https://github.com/ivandustin/bible
   A perfectly lightweight repository containing the complete Greek New
   Testament and Hebrew Old Testament stored entirely as flat CSV
   spreadsheets. Every row is a single word token matched with its exact
@@ -538,3 +402,411 @@ Git, you can simply type
 
 where <link> is one of the links above.
 
+# The importance of Gematria, Isopsephy and other human knowledge
+
+Unlike GAI, which cannot be trusted with any metadata about the Cryptogram
+and must be forced to "figure everything out" on its own, I (the Author) can
+allow myself the luxury of using the knowledge gathered by my fellow humans.
+There might be errors, yes, but these are rare (these people spent a LOT of
+time studying these matters and are careful about it) so they can be weeded
+by cleverly applied statistical analysis.
+
+The idea is to use "what the other humans already know" to find a candidate
+for the Cryptofram and use clever mathematics to "weed out errors". The
+result should be the Cryptogram itself.
+
+The first "mathematical realization" I had was my suspicion that "there must
+exist some ancient letter-to-number mappings for both languages". These
+mappings were used by ancient humans to verify the texts and weed out errors
+long before computers and Unicode were even invented.
+
+Turns out they do exist and even have names: "Gematria" for Hebrew and
+Isopsephy for Greek. Integrating these ancient letter-to-number mappings into
+the design of the search tools is a major step forward for historical
+accuracy. In text forensics and historical cryptanalysis, these systems are
+known as **alphanumeric numeral systems**, where alphabetic letters double
+directly as mathematical digits. By building these native historical keys
+into the blueprint of the search, the gap between ancient scribal
+security methods and modern digital verification is seamlessly bridged.
+
+Hence, the **Mapping Matrix** does not just use arbitrary or modern randomly
+chosen numbers. Instead, it respects the exact mathematical rules used by
+ancient human curators to verify text integrity across thousands of years.
+
+## Standard Hebrew Gematria Mapping Table
+
+This standard system (Mispar Hechrachi) maps the 22 fundamental letters of
+the alphabet. The five "final letters" (sofit forms used exclusively at the
+end of a word) natively retain the numerical value of their standard base
+characters to ensure structural mathematical consistency during text
+verification passes.
+
+## Greek Isopsephy Mapping Table
+
+This traditional system (the Milesian alphabetic system) requires 27 symbols
+to map units, tens and hundreds. Because the standard Greek alphabet features
+24 letters, it includes the three historical archaic digits - Stigma/Digamma,
+Koppa and Sampi - to satisfy the mathematical continuity of the grid. In text
+databases, lowercase Sigma has two Unicode variants (standard \(\sigma \) and
+word-final \(\varsigma \)), which both natively retain the identical
+numerical value of 200 to preserve calculation integrity.
+
+## The Hebrew/Greek To Latin translation.
+
+There is another problem with the arrangement that needs solving. The need to
+learn two foreign alphabets and to read the Hebrew portion of the Cryptogram
+"the wrong way" (right-to-left instead of left-to-right) poses a serious
+cognitive load. Especially due to the fact that current text editing tools
+tend to trip over themselves when dealing with text which changes direction
+from left-to-right to right-to-left and back wildly, sometimes just about
+every few words.
+
+To solve this problem, we are going to cleverly map latin letters to the
+original hebrew and greek alphabets. I designed this solution when I realized
+that dealing with this cognitive hazard is actually unnecessary.
+
+Since there are insufficient Latin letters to map both languages properly
+(each letter of the 2 combined alphabets get its own Latin letter, either
+capital or lower-case) and intelligently (the mappings "make sense" - the
+Latin letters are similar to how they sound in the original languages and
+so on), I will be using color to distinguish between the 2 alphabets.
+
+- For the Hebrew part I will use Cyan. According to the Cryptogram, the
+  proper color for the "before the blood of Christ" era of the text is Blue.
+  In scriptural and tabernacle history, Blue represents heaven, divine
+  authority, the commandments and the revealed word of God given to Israel.
+  In Numbers 15:38-39, the Israelites were explicitly commanded to weave a
+  blue chord into the tassels of their garments to remember all the
+  commandments of the Lord. Unfortunately, deep Blue on black background
+  looks ugly and is hard to read due to the low contrasts between the two
+  colors (it looks rather beautiful when contrasted on white garments of the
+  ancient people wearing these colors). Hence I changed the color from "deep
+  blue" to "cyan", which is the color of the heavens at noon. That color
+  choice looks beautiful and pleasant.
+
+- For the Greek part I will use Red. The Red symbolizes the Blood Of The
+  Perfect Covenant, which is the central theme of the entire text. By pairing
+  a beautiful noon-sky cyan for the Hebrew text with the blood Red for the
+  Greek New Testament part, the display layer creates an exact symbolic
+  bridge tracking the historical covenant transition.
+
+## Ordinal values of the letters.
+
+Additionally, to the "numerical values" of the letters, I suspect the ordinal
+values of these letters also matter. Hence I decided to keep this mapping as
+well.
+
+## A few words about the Unicode mappings.
+
+These values appear unimportant. The ancient people had no idea what Unicode
+was so they could not use it.
+
+But God declares that "he sees the end from the beginning". That means he
+saw these Unicode assigments long before he decided to lay down the first
+letter of the Cryptogram. Hence I decided to keep the Unicode encodings in
+the tables and see what math can be gleaned from them.
+
+# The final tables
+
+This section shows the tables. Each table, when finalized, will define 5
+columns. The columns are:
+
+- Unicode Value
+  The official value of the character in the Unicode maps.
+
+- Character Name
+  The official name of the character.
+
+- Numerical Value
+  If the character was used as a digit, this is the value of that digit.
+
+- Ordinal Value
+  Lexicographic order of the character.
+
+- Latin Equivalent
+  The Latin letter used to represent the character during this Cryptogram
+  search effort.
+
+In the tables below "(EOW)" means the letter is a form that only occurs at
+the end of a word.
+
+## Standard Hebrew Gematria Mapping Table + Hebrew To Latin Map (Blue Color)
+
+    Unicode  | Character   | Numerical  | Ordinal | Latin
+    Value    | Name        | Value      | Value   | Equivalent
+    -------- | ----------- | ---------- | ------- | -----------
+    U+05D0   | Aleph       |   1        |   1     |    A
+    U+05D1   | Bet         |   2        |   2     |    B
+    U+05D2   | Gimel       |   3        |   3     |    G
+    U+05D3   | Dalet       |   4        |   4     |    D
+    U+05D4   | He          |   5        |   5     |    H
+    U+05D5   | Vav         |   6        |   6     |    V
+    U+05D6   | Zayin       |   7        |   7     |    Z
+    U+05D7   | Chet        |   8        |   8     |    E
+    U+05D8   | Tet         |   9        |   9     |    T
+    U+05D9   | Yod         |   10       |   10    |    Y
+    U+05DA   | Kaf (EOW)   |   20       |   11    |    k
+    U+05DB   | Kaf         |   20       |   11    |    K
+    U+05DC   | Lamed       |   30       |   12    |    L
+    U+05DD   | Mem (EOW)   |   40       |   13    |    m
+    U+05DE   | Mem         |   40       |   13    |    M
+    U+05DF   | Nun (EOW)   |   50       |   14    |    n
+    U+05E0   | Nun         |   50       |   14    |    N
+    U+05E1   | Samekh      |   60       |   15    |    S
+    U+05E2   | Ayin        |   70       |   16    |    I
+    U+05E3   | Pe (EOW)    |   80       |   17    |    p
+    U+05E4   | Pe          |   80       |   17    |    P
+    U+05E5   | Tsadi (EOW) |   90       |   18    |    c
+    U+05E6   | Tsadi       |   90       |   18    |    C
+    U+05E7   | Qof         |   100      |   19    |    Q
+    U+05E8   | Resh        |   200      |   20    |    R
+    U+05E9   | Shin        |   300      |   21    |    J
+    U+05EA   | Tav         |   400      |   22    |    W
+
+## Greek Isopsephy Mapping Table
+
+This table is unfinished because I am currently focusing on the Hebrew part.
+So, only the preliminary exploratory data is included in it.
+
+    Unicode | Character        | Numerical
+    Value   | Name             | Value
+    ------- | ---------------- | ----------
+    U+03B1  | Alpha            | 1
+    U+03B2  | Beta             | 2
+    U+03B3  | Gamma            | 3
+    U+03B4  | Delta            | 4
+    U+03B5  | Epsilon          | 5
+    U+03DB  | Stigma / Digamma | 6
+    U+03B6  | Zeta             | 7
+    U+03B7  | Eta              | 8
+    U+03B8  | Theta            | 9
+    U+03B9  | Iota             | 10
+    U+03BA  | Kappa            | 20
+    U+03BB  | Lambda           | 30
+    U+03BC  | Mu               | 40
+    U+03BD  | Nu               | 40
+    U+03BE  | Xi               | 60
+    U+03BF  | Omicron          | 70
+    U+03C0  | Pi               | 80
+    U+03DF  | Koppa            | 90
+    U+03C1  | Rho              | 100
+    U+03C3  | Sigma            | 200
+    U+03C2  | Sigma (EOW)      | 200
+    U+03C4  | Tau              | 300
+    U+03C5  | Upsilon          | 400
+    U+03C6  | Phi              | 500
+    U+03C7  | Chi              | 600
+    U+03C8  | Psi              | 700
+    U+03C9  | Omega            | 800
+    U+03E1  | Sampi            | 900
+
+# Analysis of the Hebrew text
+
+Unfortunately, the .md (MarkDown) file format does not support changing
+colors of letters, so you will have to identify 
+
+If you see [DATA DAMAGED] in some part of the document, it actually means the
+data exists somewhere in the talks but I forgot the data and forgot where to
+find it. Hence this string serves as a placeholder for information that I
+"need to look up later".
+
+Additionally, the analysis below is a combination of my thinking and Gemini's
+output. Since Gemini hallucinates a lot and I am not a subject matter expert,
+the analysis below may contain errors.
+
+## Splitting the text into words
+
+The original text came in a form called "scriptio continua". The text wasn't
+a series of words separated by spaces, instead it was a long, unbroken string
+of letters. There were no spaces and no punctuation marks (albeit Hebrew has
+2 letters that look like punctuation marks, these are actual LETTERS rather
+than simple punctuation marks). Instead the language is designed so that the
+readers would immediately mentally split the text into the words "in real
+time", as they read the text. This was done to save on the precious writing
+materials (typically parchment, albeit papyrus was sometimes used). This,
+surprisingly, can work for English pretty well. Here are 2 examples.
+
+LetsHaveAnExampleInEnglishWhereThisTextWasWrittenUsingSimilarMethodToTheHebre
+wTextsWhereThereNoSpacesNorPunctuationMarksAndCapitalLettersAreUsedAsIndicato
+rsWhereTheActualWordsActuallyStartSoYourBrainCanEffortlesslyFigureOutWhereThe
+WordsAreAndInsertTheSpacesBeforeSubmittingTheTextForProcessingInTheReadingCen
+terOfYourBrainNoticeHowEveryLineHereIsExactlySeventySevenCharactersLongAndHow
+TheWordsWrapFromOneLineToTheNextOneWhenTheyCanNotFitIntoTheAvailableSpaceAndN
+oticeHowYourBrainCanStillProcessThisTextPrettyEffortlesslyNowRealizeThatTheEn
+tireBookWasWrittenLikeThisBecauseTheEquivalentOfModernPaperWasSoExpensiveThat
+TossingTheSpacesOutSavedASignificantAmountOfMoneyAndEffortNowWhenYouFinishedR
+eadingThisTextYouProbablyUnderstandSomeOfTheExperienceOfHowReadingFeltLikeInT
+heAncientTimesBeforeThePrintintPressAndTheModernPaperWereBothInvented
+
+THISTEXTBLOCKISMUCHHARDERTOREADBECAUSETHEREAREONLYCAPITALLETTERSUSEDBUTWHENYO
+UTRYTODECIPHERITYOUMAYREALIZETHATYOURENGLISHSPEAKINGANDREADINGBRAINISSTILLABL
+ETOWORKOUTWHERETHEWORDSAREANDHENCESPACESSHOULDBEANDAFTERYOUMADETHATREALIZATIO
+NNOTICETHATTHEMODERNENGLISHISMUCHMORECOMPLICATEDTHANANYLANGUAGESTHEANCIENTPEO
+PLEWEREUSINGINTHEIRDAILYLIVESTHEREASONWHYONEWOULDUSETEXTLIKETHISISTHATTHEAMOU
+NTOFLETTERFORMSCALLEDGLYPHSONEBRAINCANRELIABLYLEARNQUICKLYISACTUALLYPRETTYLIM
+ITEDSOREDUCINGTHECOUNTOFGLYPHSHELPSTREMENDOUSLY
+
+As these two examples show, the top text is pretty easy to parse without much
+brain strain. You can figure out where the words are by looking for capital
+letters which not only signal the letter but also that the letter starts a
+word. Additionally, notice that the text is formed so it does not rely on
+punctuation to tell you where one sentence ends and another begins, instead
+cleverly chosen words signal these "thought breaks".
+
+The bottom text is much harder to read because there is no easy indication
+where one word ends and another begins. You need to know enough English
+vocabulary to recognize enough words in the string to be able to extract the
+meaning correctly. The effort to decipher this text block is significantly
+higher - you are not reading it anymore, you are actually crossing into your
+deciphering mode, trying to crack a cipher. A relatively simple one but still
+a cipher.
+
+An objective linguistic and textual analysis of the Hebrew language string
+confirms that it is a cross between these two examples. It looks like the
+latter example (all capital letters) but actually reads much closer to the
+former example (word breaks indicated by special forms of the letters).
+
+As a matter of fact, a Hebrew language string can be flawlessly split into
+words by a completely blind, language-ignorant "dumb parser" without needing
+a dictionary, grammatical rules or an external database. The Hebrew language
+achieves this directly through a structural, "hardware-level" alphabet
+mechanism known as the Sofit system (Letters of Extension). It elegantly
+solves both problems. There are only 27 letters to learn instead of 52 (plus
+10 digits), yet despite that the brain is provided enough "hard word
+breaks" to prevent severe desynchronization, mental strain or need for
+deciphering techniques while reading.
+
+As a result, the text looks like a clever combination of the two forms shown
+by the above examples. There are letters that have "a capital and a lower
+case form", which actually is called "standard" and "sofit" forms. There are
+only 5 such letters instead of every single one having dual forms like in
+the Latin script. They are listed in the table below. Note the Latin
+equivalent chosen are that the lower-case letter signals to your brain "here
+is the end of a word"; the actual Hebrew letters look like random sets of
+lines, completely indistinguishable from the other "random sets of lines"
+because your brain is not trained to recognize them:
+
+       Standard Form    | Sofit Form
+    ------------------- | ----------
+    Kaf   (K) -> U+05DB | Kaf Sofit   (k) -> U+05DA
+    Mem   (M) -> U+05DE | Mem Sofit   (m) -> U+05DD
+    Nun   (N) -> U+05E0 | Nun Sofit   (n) -> U+05DF
+    Pe    (P) -> U+05E4 | Pe Sofit    (p) -> U+05E3
+    Tsadi (C) -> U+05E6 | Tsadi Sofit (c) -> U+05E5
+
+## From the history of early writing.
+
+In the ancient Near East, the raw physical "writing space" - whether it was
+highly processed calfskin parchment, imported Egyptian papyrus or
+labor-intensive smoothed ostraca (clay pottery shards) - represented a
+massive economic and labor expenditure. Every square centimeter of writing
+material required significant manual manufacturing time and high material
+cost. Additionally, these materials had strict physical limits on length or
+weight. Exceeding these limits would make the item too heavy to roll or too
+fragile to transport around.
+
+Including the omitted data (vowels, spaces and punctuation marks) would
+inflate the text by 35% to 50%. That would translate to roughly twice as many
+animal skins needed, doubling the tanning labor (remember - no factories yet)
+and a dramatic increase in the transcription hours required by the scribe.
+
+So, by stripping out vowels, formatting spaces and punctuation tokens,
+ancient scribes were executing a brilliant form of "bare-metal hardware
+compression" to maximize the data density before committing the data to the
+actual physical medium.
+
+However the disadvantage was that the "decoding" was pushed to the
+"receiver". The reader had to use their internal linguistic background,
+historical context constraints and structural knowledge to dynamically
+re-insert the correct vowel sounds and decode the hidden boundaries in real
+time during vocal presentation ("reading aloud").
+
+## First trouble during reading
+
+As the language evolved, eading a long consonantal string of consonants
+became highly ambiguous. To resolve this without introducing an entirely new
+alphabet, ancient scribes began using a small subset of existing consonants
+to anchor the vowels. This ended up as a system where specific consonant
+characters double directly as **wovel indicators**. The earlies form of the
+system uses four fundamental letters from the alphabet:
+
+    Key | Char. |    Consonantal State    | Vocalic State
+        | Name  |                         |
+    --- | ----- | ----------------------- | ---------------------------------
+    A   | Aleph | Glottal Stop            | Long 'A' or 'E' vowel sound
+    H   | He    | Breath 'H' sound        | Terminal 'A', 'E' or 'O' marker
+    V   | Vav   | Labial 'V' or 'W' sound | Long 'U' (shuruq) or 'O' (cholem)
+    Y   | Yod   | Palatal 'Y' sound       | Long 'I' (chiriq) or 'E' (tzere)
+
+Hence the vowels weren't dropped into the text randomly. It was governed by
+a strict, highly deterministic **Positional Matrix** that any organic search
+mind can easily track visually across the string. Here are some of the rules:
+
+- The letters Vav (V) and Yod (Y) primarily dominate the internal spaces of a
+  word token. When they function as a standard consonant, they sit at the
+  very beginning of a syllable (like the V in "VAW"). When they function as a
+  Mater Lectionis inside a word, they are always preceded by a standard
+  consonant and followed by another consonant. They freeze the phonetic
+  movement, transforming into a long vowel anchor. When they sit next to each
+  other (like the Y and W vowel sounds inside the compound block BRAJYW),
+  they form a **Double-Vowel Blend Node**, merging into a single phonetic
+  unit called a diphthong and, more importantly, **end the word**.
+- **The He (H) Rule:** A He sitting inside the middle of a word stem
+  functions as a standard consonant. However, if it appears at the end of a
+  word block, it is almost never pronounced as a consonant. It transforms
+  natively into a final vowel anchor, flagging a feminine noun ending, a verb
+  suffix or a directional marker. This means certain letters are impossible
+  to follow a He inside a word while others are perfectly fine.
+- **The Aleph (A) Rule:** Because Aleph is a silent glottal stop, it
+  naturally loses its consonantal force when placed at the end of a syllable,
+  freezing into a clean terminal vowel sound (like the Aleph closing the
+  first word "BRA"). For us this means that it is NEVER followed by another
+  Aleph, so an occurence of "AA" implies a word boundary between the two
+  Alephs. There might be other letters that are forbidden to follow an Aleph
+  inside of a word.
+
+The point of this system is that vowels did not appear randomly between
+consonants; instead rigid rules were developed by the scribes to encode
+the vowels into the stream of consonants.
+
+Also of note is that two of the specific consonant letters - Vav (V) and
+Yod (Y) - look like punctuation marks in the original script but they are
+not, they are actual letters.
+
+These four special consonants, which can transition to behave as terminal
+vowel markers at the absolute boundaries of words, eventually became known as
+the "Matres Lectionis" that were used to record "Terminal Vowels" into the
+text without using extra characters in the text or adding new glyphs into the
+alphabets. The name is profound; it literally means "Mothers of reading" as
+these letters act as if they were "birthing the reading capability into the
+text".
+
+The result was an alphabet where a simple, young child could learn to read
+the "space-compressed" text without any significant cognitive load. No
+advanced understanding of the language is necessary. No complex grammar needs
+to be learned. Just a few simple rules to parse the dense text and that is
+it. The text falls apart into words, whose meaning can be understood from the
+speech.
+
+# The Mechanics of the "Hebrew Dumb Parser"
+
+To isolate word boundaries in an unformatted Hebrew text stream, one needs
+to simply run a linear sweep through the input string, applying the
+word-breaking rules. One way to determine these would be to study these rules
+and code them as a script but that is "the hard way". There is "easy way":
+"Maximum-Margin Delta Filter". Here is how it works:
+
+- Because a text that is already pre-broken to words by experts, we can
+  confidently say that there might be errors but they are going to be few
+  and far between.
+- So, we can iterate through the words of the pre-broken text and count how
+  many double-letter occurences show up in each of these.
+- Once this sweep is done, we sort the resulting vector of (letter-pair,
+  frequency) by the frequencies measured, from the highest value to the
+  lowest. Then we calculate the "delta" between each of the 2 consecutive
+  frequency values in the sorted vector and find k where the delta between
+  (k-1)-th and (k)-th is the largest.
+- Once we find such k, we can confidently proclaim that any pair occuring in
+  the sorted vector at position (k-1) or lower is "valid" and hence occurs
+  inside a word while any pair occuring in the sorted vector at position (k)
+  or higher (or not occuring at all) are "invalid" and denote a word break.
